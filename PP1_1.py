@@ -8,10 +8,10 @@ def q2():
  print("Output the numbers 1 through 5, each on a different line.") 
 def q3():
   #Write Assignment code here
- print("Output Help me!") # Hint: Notice the space before "Help Me!")
+ print(" Help me!")
 def q4():
   #Write Assignment code here
- print("Output 3 * 3 = 9")
+ print("3 * 3 = 9")
 #Do not alter anything after this line
 q1()
 q2()
